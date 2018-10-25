@@ -1,8 +1,5 @@
 # flutter_lsit
 
-A new Flutter application.
+Flutter List application.
 
-## Getting Started
-
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+![flutterlistexample](https://user-images.githubusercontent.com/41986669/47486671-83872e00-d85e-11e8-9b48-7bb117838a6e.gif)
